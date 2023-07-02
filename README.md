@@ -1,2 +1,2 @@
 # snowflake
-usefule Snowflake code
+useful Snowflake code
